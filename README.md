@@ -24,7 +24,7 @@ Swagger UI
 
 Postgresql
 
-This project is under devellopment and instructions comming soon...
+This project is under development and instructions comming soon...
 
 ![alt text](https://github.com/fatjon1/protax/blob/master/Protax-ER-Diagram.png)
 
